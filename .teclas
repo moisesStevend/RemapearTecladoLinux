@@ -1,0 +1,18 @@
+#obtener keycode es: xev 
+xmodmap -e "keycode 87=s"
+xmodmap -e "keycode 88=d"
+xmodmap -e "keycode 89=q"
+xmodmap -e "keycode 83=g"
+xmodmap -e "keycode 84=j"
+xmodmap -e "keycode 85=Alt_L"
+xmodmap -e "keycode 104=space"
+xmodmap -e "keycode 79=Left"
+xmodmap -e "keycode 80=Down"
+xmodmap -e "keycode 81=Right"
+xmodmap -e "keycode 106=Up"
+xmodmap -e "keycode 91=z"
+xmodmap -e "keycode 63=less greater"
+xmodmap -e "keycode 82=minus underscore"
+
+
+
